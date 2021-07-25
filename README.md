@@ -1,2 +1,2 @@
 # Machine-Learning-Coursera-AndrewNG
-My solutions to Machine Learning course
+My solutions to this course
